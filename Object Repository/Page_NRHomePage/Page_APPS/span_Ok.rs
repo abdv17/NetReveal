@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ok</name>
+   <tag></tag>
+   <elementGuidId>45832875-e7d6-4981-87e3-effbc25c3cf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/table[@class=&quot;mainScreenTable&quot;]/tbody[1]/tr[1]/td[@class=&quot;mainScreenTableCell&quot;]/div[@class=&quot;sectionButtonContent cfgButtonRow&quot;]/a[@class=&quot;textbutton right&quot;]/span[1][count(. | //span[(text() = 'Ok' or . = 'Ok')]) = count(//span[(text() = 'Ok' or . = 'Ok')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ok</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[@class=&quot;mainScreenTable&quot;]/tbody[1]/tr[1]/td[@class=&quot;mainScreenTableCell&quot;]/div[@class=&quot;sectionButtonContent cfgButtonRow&quot;]/a[@class=&quot;textbutton right&quot;]/span[1]</value>
+   </webElementProperties>
+</WebElementEntity>
